@@ -23,4 +23,8 @@ public class ReceiverMedIQ{
     public func getPharmaciess(){
         print("@@@@3------------")
     }
+    
+    public func getPharmaciess2(){
+        print("@@@@3------------")
+    }
 }
